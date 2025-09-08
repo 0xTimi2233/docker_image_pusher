@@ -21,5 +21,9 @@
 #--alias=bitnami-nginx bitnami/nginx:1.27
 #--alias=emqx-emqx emqx/emqx:5.8
 #--alias=emqx-emqx-arm64 --platform=linux/arm64 emqx/emqx:5.8
---alias=bitnami-kafka bitnami/kafka:3.9
---alias=nacos-nacos-server nacos/nacos-server:v2.5.0
+#--alias=bitnami-kafka bitnami/kafka:3.9
+#--alias=nacos-nacos-server nacos/nacos-server:v2.5.0
+ezdata123/ezdata-web:latest
+ezdata123/ezdata:latest
+ezdata123/ezdata:1.0.1
+ezdata123/ezdata-web:1.0.1
