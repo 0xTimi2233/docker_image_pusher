@@ -28,4 +28,4 @@
 #ezdata123/ezdata:1.0.1
 #ezdata123/ezdata-web:1.0.1
 #--alias=nacos-server223 nacos/nacos-server:v2.2.3
---alias=shareopenjdk21 openjdk:21
+--alias=shareopenjdk21 amazoncorretto:21
