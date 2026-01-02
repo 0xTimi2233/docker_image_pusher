@@ -1,2 +1,2 @@
 #支持别名（格式为 '--alias=custom_image_name' ）
---alias=my_gotify_server:latest gotify/server:latest
+--alias=my_gotify_server gotify/server:latest
