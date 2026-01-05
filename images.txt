@@ -1,3 +1,3 @@
 #支持别名（格式为 '--alias=custom_image_name' ）
---alias=my_gotify_server gotify/server:latest
---alias=my_vaultwarden_server vaultwarden/server:latest
+--alias=my-gotify-server gotify/server:latest
+--alias=my-vaultwarden-server vaultwarden/server:latest
